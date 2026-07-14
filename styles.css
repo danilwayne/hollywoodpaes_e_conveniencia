@@ -189,7 +189,10 @@ h1,h2,h3,h4,.brand-mark{font-family:'Playfair Display',Georgia,serif}
 .footer-col h4{color:#fff;margin-bottom:1rem;font-family:'Poppins',sans-serif;font-size:1rem}
 .footer-col a{display:block;padding:.35rem 0;font-size:.92rem;color:rgba(255,255,255,.75);transition:color .2s}
 .footer-col a:hover{color:var(--dourado)}
-.footer-col a .link-ic{vertical-align:-3px;margin-right:.5rem;opacity:.85}
+.footer-col a .link-ic{vertical-align:-3px;margin-right:.55rem}
+.footer-col a .ic-whats{color:var(--whats)}
+.footer-col a .ic-fone{color:var(--dourado)}
+.footer-col a .ic-insta{color:#e1306c}
 
 /* ---------- Redes sociais (ícones) ---------- */
 .social-title{margin-top:1.4rem;margin-bottom:.7rem;font-family:'Poppins',sans-serif;font-size:.9rem;font-weight:600;color:#fff;letter-spacing:.02em}
